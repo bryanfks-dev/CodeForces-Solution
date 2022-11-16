@@ -27,7 +27,7 @@ int main(){
         }
     }
     else {
-        // Replaceing char algorithm here
+        // Replacing char algorithm here
         index = 0; // Reset index value
         while (str[index] != '\0') {
             // Assume the selected char is a lowecase, then convert it to uppercase
